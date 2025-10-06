@@ -4,7 +4,7 @@ Interactive CPU Scheduling visualization for Shortest Job First (SJF) Non-Preemp
 
 ## Live Demo
 
-Will be deployed on Vercel. After deployment, the URL will be updated here.
+Live Demo: https://sjf-visualizer-l9udejw7d-alphaversion905-9531s-projects.vercel.app
 
 ## Features
 
